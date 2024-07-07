@@ -1,5 +1,4 @@
 # Resume_Manager_
-# ResumeManager: Secure Resume Management System
 
 ## Project Description
 
