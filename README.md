@@ -7,8 +7,8 @@ ResumeVault is a secure and efficient web application designed for managing resu
 
 ## Technologies Used
 
-- Angular: Frontend framework for building dynamic and responsive user interfaces.
-- MS SQL: Database management system for storing and managing data securely.
+- **Angular**: Frontend framework for building dynamic and responsive user interfaces.
+- **MS SQL**: Database management system for storing and managing data securely.
 - **Spring Boot**: Backend framework for creating robust and scalable server-side applications.
 - **GitHub**: Version control system for collaborative development and source code management.
 - **Postman**: API testing tool for ensuring the reliability and performance of the application's endpoints.
@@ -20,6 +20,4 @@ ResumeVault is a secure and efficient web application designed for managing resu
 - **Keyword-Based Search**: Engineered a robust search function to find resumes using keywords, making it easy to locate specific resumes quickly.
 - **Data Security and Privacy**: Ensured data security and privacy throughout the application, adhering to best practices and standards.
 
----
 
-This name and description provide a clear and concise overview of the project's purpose, technologies used, and key achievements, highlighting its functionality and security features.
